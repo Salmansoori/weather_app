@@ -14,7 +14,7 @@ def delete_city(request, city_name):
 
 
 def index(request):
-    url='http://api.openweathermap.org/data/2.5/weather?q={}&units=imperial&appid=cafd67f10c24993ded025326fc5c6ccc'
+    url='http://api.openweathermap.org/data/2.5/weather?q={}&units=imperial&appid=Your ApiKey'
     
     
     error_msg=''
