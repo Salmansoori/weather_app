@@ -1,1 +1,1 @@
-# weather_app
+# weather_app : An amazing application
